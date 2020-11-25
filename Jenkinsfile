@@ -1,6 +1,6 @@
 pipeline {
 agent {
-labels '24thdevops'
+label '24thdevops'
 }
 stages {
 stage ('checkout') 
