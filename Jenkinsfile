@@ -2,8 +2,9 @@ pipeline {
 agent {
 labels '24thdevops'
 }
-Stages {
-Stage ('checkout') {
+stages {
+stage ('checkout') 
+   {
 steps {
    checkout scm 
  }
