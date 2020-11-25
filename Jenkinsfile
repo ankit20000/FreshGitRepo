@@ -1,4 +1,4 @@
-Pipeline {
+pipeline {
 agent {
 labels '24thdevops'
 }
