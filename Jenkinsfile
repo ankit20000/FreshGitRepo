@@ -7,4 +7,6 @@ Stage ('checkout') {
 steps {
    checkout scm 
  }
- }
+   }
+       }
+            }
